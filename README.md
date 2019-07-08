@@ -16,6 +16,25 @@ Struts1教程手册 https://www.jdon.com/dl/best/struts1.html
 
 ---
 # 浏览记录 
+
+```
+如何查看现有项目的struts和hibernate和spring版本  2010-10-31 11:43
+https://xiangdefei.iteye.com/blog/798798
+
+
+重新看待Jar包冲突问题及解决方案
+发表于 2017-07-15 | 分类于 java | | 阅读次数 | 31454
+
+http://www.yangbing.club/2017/07/15/solution-for-jar-conflicts/.
+
+
+
+ActionServlet深入探讨
+http://www.blogjava.net/ltc603/archive/2006/01/13.html
+http://www.blogjava.net/ltc603/archive/2007/04/06/108859.html
+
+```
+
 https://www.one-tab.com/page/8x9gnue0RoWYNVnXA8QCmA
 
 - SpringBoot 启动流程图_百度搜索
