@@ -33,6 +33,19 @@ ActionServlet深入探讨
 http://www.blogjava.net/ltc603/archive/2006/01/13.html
 http://www.blogjava.net/ltc603/archive/2007/04/06/108859.html
 
+
+Struts2升级版本至2.5.10，高危漏洞又来了- 柒's Blog
+https://blog.52itstyle.com/archives/430/
+- Translate this page
+Mar 9, 2017 - 前情概要漏洞年年有，最近特别多。2017年3月6日，Apache Struts2被曝存在 ... 由于目前使用版本是struts2-core-2.3.28，于是赶紧升了下级别，略过2.3 .... 使用的是log4j而不是log4j2，那么问题就来了，你还需要加入log4j-api-2.7.jar ...
+
+
+Struts版本整理
+2016年02月23日 11:08:13 deb_ug 阅读数 265
+版权声明：本文为博主原创文章，未经博主允许不得转载。 https://blog.csdn.net/deb_ug/article/details/50721602
+由于工作中经常用到struts框架，且经常曝出新漏洞，收藏一下官方漏洞地址以及最新jar包下载地址：
+漏洞列表（包括Struts1.x和Struts2.x）：https://www.cvedetails.com/vulnerability-list/vendor_id-45/product_id-6117/Apache-Struts.html 
+Struts最新jar包下载地址：http://struts.apache.org/download.cgi 
 ```
 
 https://www.one-tab.com/page/8x9gnue0RoWYNVnXA8QCmA
