@@ -17,6 +17,12 @@ Struts1教程手册 https://www.jdon.com/dl/best/struts1.html
 ---
 # 浏览记录 
 
+设置frameset的高度
+https://zccst.iteye.com/blog/2009526
+
+- 技术心情 (18) https://zccst.iteye.com/category/144663
+- 工具（开发）使用 (36) https://zccst.iteye.com/category/150190
+
 ```
 如何查看现有项目的struts和hibernate和spring版本  2010-10-31 11:43
 https://xiangdefei.iteye.com/blog/798798
